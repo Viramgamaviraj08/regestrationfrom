@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(113, 113, 145);
+    font-size: 1030;
+}
+.wrapper{
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    width: 300px;
+    background-color:white;
+    border-radius: 5px;
+}
+.wrapper h2{
+    text-align: center;
+    padding-bottom: 20px;
+    border-bottom: 1px solid silver;
+}
+.from{
+    border-radius: 3px;
+    margin: 0 30px;
+    text-align: center;
+}
+.textfiled{
+    width: 100%;
+    height: 40px;
+    font-size: 18px;
+    border-radius: 5px;
+    border: 2px solid black;
+    box-sizing: border-box;
+    padding-left: 10px;
+}
+.btn{
+    width: 100%;
+    height: 40px;
+    background-color: teal;
+}
